@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg  PUBLIC '-//W3C//DTD SVG 1.1//EN'  'http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd'>
+<svg enable-background="new 0 0 65 60" shape-rendering="crispEdges" version="1.1" viewBox="0 0 65 60" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<style type="text/css">
+<![CDATA[
+	.st0{fill:#EE67A4;}
+	.st1{fill:#231F20;}
+	.st2{fill:#35BEB8;}
+]]>
+</style>
+<symbol id="a" viewBox="0 -60 65 60">
+	
+		<polygon class="st0" points="60 -60 0 -60 0 0 60 0"/>
+		<polygon class="st1" points="60 -41 55 -41 55 -31 60 -31"/>
+		<polygon class="st2" points="65 -41 60 -41 60 -31 65 -31"/>
+	
+</symbol>
+<use transform="scale(1 -1)" y="-60" width="65" height="60" xlink:href="#a"/>
+</svg>

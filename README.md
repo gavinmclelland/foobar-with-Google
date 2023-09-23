@@ -86,7 +86,7 @@ Google Foobar is an invitation-only coding challenge created by Google. It featu
 | 2             | 2                                |
 
 - [x] Level 1: 100% [==========================================]
-    - [x] [Skipping Work](challenge-journal/level1-skipping-work)
+    - [x] [Skipping Work](https://github.com/gavinmclelland/foobar-with-Google/tree/main/challenge-journal/level1-skipping-work)
 - [ ] Level 2: 0% [..........................................]
     - [ ] Challenge 2a TBD
     - [ ] Challenge 2b TBD

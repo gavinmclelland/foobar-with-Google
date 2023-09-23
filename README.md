@@ -23,7 +23,7 @@
   <p align="center">
     This repository contains my solutions and journey documentation for Google Foobar version 20230817-beta challenges. Focused on Python solutions and educational sharing. Work in progress.
     <br />
-    <a href="https://github.com/gavinmclelland/foobar-with-Google/challenge-journal"><strong>Explore my Challenge Journal »</strong></a>
+    <a href="https://github.com/gavinmclelland/foobar-with-Google/tree/main/challenge-journal"><strong>Explore my Challenge Journal »</strong></a>
     <br />
     <br />
     <a href="https://foobar.withgoogle.com/">foo.bar</a>
@@ -85,14 +85,14 @@ Google Foobar is an invitation-only coding challenge created by Google. It featu
 |---------------|----------------------------------|
 | 2             | 2                                |
 
-- [x] Level 1: 100% [==========================================]
+- [x] Level 1: 100% [==========]
     - [x] [Skipping Work](https://github.com/gavinmclelland/foobar-with-Google/tree/main/challenge-journal/level1-skipping-work)
-- [ ] Level 2: 0% [..........................................]
+- [ ] Level 2: 0% [..........]
     - [ ] Challenge 2a TBD
     - [ ] Challenge 2b TBD
-- [ ] Level 3: 0% [..........................................]
-- [ ] Level 4: 0% [..........................................]
-- [ ] Level 5: 0% [..........................................]
+- [ ] Level 3: 0% [..........]
+- [ ] Level 4: 0% [..........]
+- [ ] Level 5: 0% [..........]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

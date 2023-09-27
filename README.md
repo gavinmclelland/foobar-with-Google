@@ -79,7 +79,7 @@ Google Foobar is an invitation-only coding challenge created by Google. It featu
 - **Optimization**
 - **Mathematical Puzzles**
 
-### My Google Foobar Status
+## My Google Foobar Status
 
 | Current level | Challenges left to complete level |
 |---------------|----------------------------------|
@@ -87,8 +87,8 @@ Google Foobar is an invitation-only coding challenge created by Google. It featu
 
 - [x] Level 1: 100% [==========]
     - [x] [Skipping Work](https://github.com/gavinmclelland/foobar-with-Google/tree/main/challenge-journal/level1-skipping-work)
-- [ ] Level 2: 0% [..........]
-    - [ ] Challenge 2a TBD
+- [ ] Level 2: 50% [..........]
+    - [x] [Gearing Up for Destruction](https://github.com/gavinmclelland/foobar-with-Google/tree/main/challenge-journal/level2-gearing-up-for-destruction)
     - [ ] Challenge 2b TBD
 - [ ] Level 3: 0% [..........]
 - [ ] Level 4: 0% [..........]
@@ -97,7 +97,7 @@ Google Foobar is an invitation-only coding challenge created by Google. It featu
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-### Built With
+## Built With
 
 * [![Google][Google]][google-url]
 * [![visualstudiocode][visualstudiocode]][visualstudiocode-url]
